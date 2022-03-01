@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**yngvar-antonsson/yngvar-antonsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently maintain:
+- https://github.com/tarantool/cartridge
+- https://github.com/tarantool/metrics
 
-Here are some ideas to get you started:
+List of publications:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+RU:
+- https://habr.com/ru/company/mailru/blog/529456/
+- https://habr.com/ru/company/vk/blog/588046/
+- https://habr.com/ru/company/vk/blog/596241/
+
+EN:
+- https://www.geeksforgeeks.org/how-to-calculate-percentiles-for-monitoring-data-intensive-systems/
+- https://dev.to/tarantool/distributed-storage-in-30-minutes-1a9f
+
+Conferences:
+- [SaintHighload++ 2021](https://vk.com/video-147415323_456239658?list=937e99b36cdeb78533)
+- Highload Foundation 2022
+
+Contacts:
+- telegram: [@yngvar_antonsson](https://t.me/yngvar_antonsson)
+- instagram: [yngvar_antonsson](https://instagram.com/yngvar_antonsson)
+- e-mail: yngvar.antonsson@gmail.com (personal) / i.zolotarev@corp.mail.ru (work)
