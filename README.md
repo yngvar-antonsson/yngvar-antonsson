@@ -14,6 +14,7 @@ RU:
 EN:
 - https://www.geeksforgeeks.org/how-to-calculate-percentiles-for-monitoring-data-intensive-systems/
 - https://dev.to/tarantool/distributed-storage-in-30-minutes-1a9f
+- https://dev.to/tarantool/scaling-clusters-without-any-hassle-46in
 
 Conferences:
 - [SaintHighload++ 2021](https://vk.com/video-147415323_456239658?list=937e99b36cdeb78533)
