@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently maintain:
+I currently maintain:
 - https://github.com/tarantool/cartridge
 - https://github.com/tarantool/metrics
 
