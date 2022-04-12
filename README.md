@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I currently maintain:
 - https://github.com/tarantool/cartridge
@@ -24,3 +24,4 @@ Contacts:
 - telegram: [@yngvar_antonsson](https://t.me/yngvar_antonsson)
 - instagram: [yngvar_antonsson](https://instagram.com/yngvar_antonsson)
 - e-mail: yngvar.antonsson@gmail.com (personal) / i.zolotarev@corp.mail.ru (work)
+- LinkedIn: [yngvar-antonsson](https://www.linkedin.com/in/yngvar-antonsson/)
