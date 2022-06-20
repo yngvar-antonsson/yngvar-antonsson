@@ -7,14 +7,15 @@ I currently maintain:
 List of publications:
 
 RU:
-- https://habr.com/ru/company/mailru/blog/529456/
-- https://habr.com/ru/company/vk/blog/588046/
-- https://habr.com/ru/company/vk/blog/596241/
+- [Расчет перцентилей для мониторинга высоконагруженных систем](https://habr.com/ru/company/mailru/blog/529456/)
+- [Пишем распределенное хранилище за полчаса](https://habr.com/ru/company/vk/blog/588046/)
+- [Масштабируем кластеры без лишних усилий](https://habr.com/ru/company/vk/blog/596241/)
+- [Топ-5 провальных решений при разработке на Tarantool](https://habr.com/ru/company/vk/blog/672386/)
 
 EN:
-- https://www.geeksforgeeks.org/how-to-calculate-percentiles-for-monitoring-data-intensive-systems/
-- https://dev.to/tarantool/distributed-storage-in-30-minutes-1a9f
-- https://dev.to/tarantool/scaling-clusters-without-any-hassle-46in
+- [How to Calculate Percentiles For Monitoring Data-Intensive Systems?](https://www.geeksforgeeks.org/how-to-calculate-percentiles-for-monitoring-data-intensive-systems/)
+- [Distributed storage in 30 minutes](https://dev.to/tarantool/distributed-storage-in-30-minutes-1a9f)
+- [Scaling clusters without any hassle](https://dev.to/tarantool/scaling-clusters-without-any-hassle-46in)
 
 Conferences:
 - [SaintHighload++ 2021](https://vk.com/video-147415323_456239658?list=937e99b36cdeb78533)
