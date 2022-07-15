@@ -16,6 +16,7 @@ EN:
 - [How to Calculate Percentiles For Monitoring Data-Intensive Systems?](https://www.geeksforgeeks.org/how-to-calculate-percentiles-for-monitoring-data-intensive-systems/)
 - [Distributed storage in 30 minutes](https://dev.to/tarantool/distributed-storage-in-30-minutes-1a9f)
 - [Scaling clusters without any hassle](https://dev.to/tarantool/scaling-clusters-without-any-hassle-46in)
+- [Top 5 bad decisions when dealing with in-memory databases](https://medium.com/@tarantool/top-5-bad-decisions-when-dealing-with-in-memory-databases-4b2d1fe39317)
 
 Conferences:
 - [SaintHighload++ 2021](https://vk.com/video-147415323_456239658?list=937e99b36cdeb78533)
