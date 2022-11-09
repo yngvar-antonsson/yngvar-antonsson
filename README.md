@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+I'm Igor Zolotarev, software engineer at Tarantool.
+
 I currently maintain:
 - https://github.com/tarantool/cartridge
 - https://github.com/tarantool/metrics
@@ -25,5 +27,5 @@ Conferences:
 Contacts:
 - telegram: [@yngvar_antonsson](https://t.me/yngvar_antonsson)
 - instagram: [yngvar_antonsson](https://instagram.com/yngvar_antonsson)
-- e-mail: yngvar.antonsson@gmail.com (personal) / i.zolotarev@corp.mail.ru (work)
+- e-mail: yngvar.antonsson@gmail.com
 - LinkedIn: [yngvar-antonsson](https://www.linkedin.com/in/yngvar-antonsson/)
