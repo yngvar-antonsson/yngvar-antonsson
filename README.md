@@ -1,10 +1,16 @@
 ### Hello there 👋
 
-I'm Igor Zolotarev, software engineer at Tarantool.
+I'm Igor Zolotarev, software engineer at Tarantool and teacher at OTUS.
 
 I currently maintain:
 - https://github.com/tarantool/cartridge
 - https://github.com/tarantool/metrics
+
+Contacts:
+- telegram: [@yngvar_antonsson](https://t.me/yngvar_antonsson)
+- instagram: [yngvar_antonsson](https://instagram.com/yngvar_antonsson)
+- e-mail: yngvar.antonsson@gmail.com
+- LinkedIn: [yngvar-antonsson](https://www.linkedin.com/in/yngvar-antonsson/)
 
 List of publications:
 
@@ -20,12 +26,6 @@ EN:
 - [Scaling clusters without any hassle](https://dev.to/tarantool/scaling-clusters-without-any-hassle-46in)
 - [Top 5 bad decisions when dealing with in-memory databases](https://medium.com/@tarantool/top-5-bad-decisions-when-dealing-with-in-memory-databases-4b2d1fe39317)
 
-Conferences:
-- [SaintHighload++ 2021](https://vk.com/video-147415323_456239658?list=937e99b36cdeb78533)
-- Highload Foundation 2022
-
-Contacts:
-- telegram: [@yngvar_antonsson](https://t.me/yngvar_antonsson)
-- instagram: [yngvar_antonsson](https://instagram.com/yngvar_antonsson)
-- e-mail: yngvar.antonsson@gmail.com
-- LinkedIn: [yngvar-antonsson](https://www.linkedin.com/in/yngvar-antonsson/)
+Conferences (RU):
+- [SaintHighload++ 2021](https://www.youtube.com/watch?v=6MJtIZd1E60)
+- [Highload++ Foundation 2022](https://www.youtube.com/watch?v=-FBKkyt1NJ0)
