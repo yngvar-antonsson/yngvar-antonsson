@@ -5,6 +5,7 @@ I'm Igor Zolotarev, software engineer at Tarantool and teacher at OTUS.
 I currently maintain:
 - https://github.com/tarantool/cartridge
 - https://github.com/tarantool/metrics
+- https://github.com/tarantool/cartridge-metrics-role
 
 Contacts:
 - Telegram: [@yngvar_antonsson](https://t.me/yngvar_antonsson)
