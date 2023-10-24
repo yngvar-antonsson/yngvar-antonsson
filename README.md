@@ -23,6 +23,7 @@ RU:
 - [Масштабируем кластеры без лишних усилий](https://habr.com/ru/company/vk/blog/596241/)
 - [Топ-5 провальных решений при разработке на Tarantool](https://habr.com/ru/company/vk/blog/672386/)
 - [Из SQL в NoSQL: меняем парадигму запросов](https://habr.com/ru/companies/vk/articles/739540/) (coauthored by [vaintrub](https://github.com/vaintrub))
+- [Отказоустойчивая архитектура: почему Tarantool не падает?](https://habr.com/ru/companies/vk/articles/768360/) (coauthored by [vaintrub](https://github.com/vaintrub))
 
 EN:
 - [How to Calculate Percentiles For Monitoring Data-Intensive Systems?](https://www.geeksforgeeks.org/how-to-calculate-percentiles-for-monitoring-data-intensive-systems/)
