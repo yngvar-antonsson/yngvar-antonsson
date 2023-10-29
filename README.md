@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Igor Zolotarev, software engineer at [Tarantool](https://www.tarantool.io/) and teacher at [OTUS](https://otus.ru).
+I'm Igor Zolotarev, software engineer at [Tarantool](https://www.tarantool.io/). I also speak at conferences, write articles, and teach people.
 
 I currently maintain:
 - https://github.com/tarantool/cartridge
