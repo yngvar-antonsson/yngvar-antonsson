@@ -35,5 +35,6 @@ Conferences (RU):
 - [SaintHighload++ 2021](https://www.youtube.com/watch?v=6MJtIZd1E60)
 - [Highload++ Foundation 2022](https://www.youtube.com/watch?v=-FBKkyt1NJ0)
 
-Open webinars (RU):
+Open webinars / talks / lessons (RU):
 - [OTUS - Как сделать распределенное хранилище на Tarantool Cartridge](https://www.youtube.com/watch?v=gDNFfqz7jLM)
+- [JUNIOR BALABOL IT MEETUP #3 - Репликация для самых маленьких](https://www.youtube.com/live/y4P73kgmVBE?t=5870&si=2BCeh-8r8VZ4jisb)
