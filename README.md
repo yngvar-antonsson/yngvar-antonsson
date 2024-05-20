@@ -12,7 +12,6 @@ Contacts:
 - Instagram: [yngvar_antonsson](https://instagram.com/yngvar_antonsson)
 - E-mail: yngvar.antonsson@gmail.com
 - LinkedIn: [yngvar-antonsson](https://www.linkedin.com/in/yngvar-antonsson/)
-- VK: [yngvar_antonsson](https://vk.com/yngvar_antonsson)
 - Facebook: [YngvarAntonsson](https://www.facebook.com/YngvarAntonsson/)
 
 List of publications:
