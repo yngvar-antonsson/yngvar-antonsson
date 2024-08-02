@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-I'm Igor Zolotarev, software engineer at [Tarantool](https://www.tarantool.io/). I also speak at conferences, write articles, and teach people.
+I'm Igor Zolotarev, a software engineer. I also speak at conferences, write articles, and teach people.
 
-I currently maintain:
+I maintained:
 - https://github.com/tarantool/cartridge
 - https://github.com/tarantool/metrics
 - https://github.com/tarantool/cartridge-metrics-role
