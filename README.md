@@ -9,10 +9,8 @@ I maintained:
 
 Contacts:
 - Telegram: [@yngvar_antonsson](https://t.me/yngvar_antonsson)
-- Instagram: [yngvar_antonsson](https://instagram.com/yngvar_antonsson)
 - E-mail: yngvar.antonsson@gmail.com
 - LinkedIn: [yngvar-antonsson](https://www.linkedin.com/in/yngvar-antonsson/)
-- Facebook: [YngvarAntonsson](https://www.facebook.com/YngvarAntonsson/)
 
 List of publications:
 
