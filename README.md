@@ -6,11 +6,16 @@ I maintained:
 - https://github.com/tarantool/cartridge
 - https://github.com/tarantool/metrics
 - https://github.com/tarantool/cartridge-metrics-role
+- https://github.com/tarantool/membership
 
 Contacts:
 - Telegram: [@yngvar_antonsson](https://t.me/yngvar_antonsson)
 - E-mail: yngvar.antonsson@gmail.com
 - LinkedIn: [yngvar-antonsson](https://www.linkedin.com/in/yngvar-antonsson/)
+- Instagram: [yngvar_antonsson](https://instagram.com/yngvar_antonsson)
+- Facebook: [YngvarAntonsson](https://www.facebook.com/YngvarAntonsson/)
+- VK: [Игорь Золотарев](https://vk.com/yngvar_antonsson)
+- Twitter: [YngvarAntonsson](https://x.com/yngvarantonsson)
 
 List of publications:
 
