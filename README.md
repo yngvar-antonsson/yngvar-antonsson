@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Igor Zolotarev, a software engineer. I also speak at conferences, write articles, and teach people.
+I'm Igor Zolotarev, a software engineer. I also speak at conferences, write articles, teach people and participate in Russian politics. I speak native Russian, C1 English and B1 German.
 
 I maintained:
 - https://github.com/tarantool/cartridge
